@@ -1,0 +1,30 @@
+{
+    "name": "vihuvac/htmlcompressor-bundle",
+    "description": "Symfony2 bundle which allow to minify cacheable HTML and XML responses using htmlcompressor",
+    "type": "symfony-bundle",
+    "keywords": ["vihuvac", "xml", "html", "compressor", "minify"],
+    "homepage": "https://github.com/vihuvac/htmlcompressor-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Víctor Hugo Valle Castillo",
+            "email": "victouk@gmail.com",
+            "homepage": "http://vihuvac.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Open Source Community",
+            "homepage": "https://github.com/vihuvac/htmlcompressor-bundle/contributors"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vihuvac\\Bundle\\HtmlCompressorBundle\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0-dev"
+        }
+    }
+}
