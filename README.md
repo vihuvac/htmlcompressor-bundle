@@ -1,6 +1,12 @@
 HtmlCompressorBundle
 ====================
 
+> :warning: **DEPRECATED**:
+> 
+> Unfortunately I want to inform this bundle is getting deprecated. Sorry for the inconvenience. :pensive:
+
+---
+
 Allow to minify cacheable HTML and XML responses using [htmlcompressor](https://code.google.com/p/htmlcompressor/).
 
 ## Installation
